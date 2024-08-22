@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+.hhh {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: black;
+    color: azure;
+    font-size: 100px;
+  }
